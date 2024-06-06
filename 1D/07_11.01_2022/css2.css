@@ -1,0 +1,49 @@
+body{
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    font-family: "Arial";
+    
+    
+}
+.header-1{
+    width: 100vw;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkcyan; 
+    margin: 20px 20px 0px 20px;
+    color: white;
+}
+.main-1{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-self: space-around;
+    align-items: flex-start;
+    background-color: cyan; 
+    margin: 0px 20px 0px 20px;
+    color: black;
+}
+.div-1, .div-2, .div-3{
+    margin: 20px 20px 0px 20px;
+    height: 45vh;
+    width: 30vw;
+    
+}
+
+.flexitem{
+    display: flex;
+    outline: 1px solid black;
+}
+p{
+    height: 20vh;
+    weight: 30vw;
+}
+.button-1, .button-2, .button-3{
+    width: 25vw;
+    height: 15vh;
+    justify-self: center;
+    align-self: flex-end;
+}

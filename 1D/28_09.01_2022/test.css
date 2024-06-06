@@ -1,0 +1,33 @@
+nav {
+    color:pink;
+}
+p {
+    color:red;
+}
+div {
+    color:blue;
+}
+nav:hover {
+    color:white;
+}
+body {
+    background-color:black;
+}
+.xd {
+    color:aquamarine;
+}
+#lol {
+    color:brown;
+}
+.xd:hover {
+    color:white;
+}
+.xd2:hover {
+    background-color:red;
+}
+.xd3:hover {
+    color:red;
+}
+#lol:hover {
+    color:white;
+}
